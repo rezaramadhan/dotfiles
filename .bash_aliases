@@ -25,6 +25,7 @@ alias kn='kubens'
 alias tf='terraform'
 alias tg='terragrunt'
 alias vi='vim'
+alias lg='lazygit'
 
 ##########################################
 # Misc
