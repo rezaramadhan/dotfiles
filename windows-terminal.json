@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "list": [
+      {
+        "colorScheme": "Campbell",
+        "commandline": "wsl.exe -d Ubuntu-22.04 -- tmux",
+        "hidden": false,
+        "name": "Ubuntu 22.04.2 LTS",
+        "startingDirectory": "~"
+      }
+    ]
+  }
+}
