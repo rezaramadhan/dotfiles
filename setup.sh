@@ -40,7 +40,7 @@ log_h2 "Setting up arkade"
 
 # From APT
 log_h2 "Installing packages from apt"
-sudo apt install tmux vim tree unzip python-pip -y
+sudo apt install tmux vim tree unzip python3-pip -y
 
 # From arkade
 log_h2 "Installing packages from arkade"

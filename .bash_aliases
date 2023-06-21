@@ -30,4 +30,4 @@ alias lg='lazygit'
 ##########################################
 # Misc
 ##########################################
-alias poweroff='wsl.exe --terminate ubuntu'
+alias poweroff='wsl.exe --terminate Ubuntu22.04'
